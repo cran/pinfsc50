@@ -1,9 +1,12 @@
-5234e9451233381f6fa5a6be6aa7a0c1 *DESCRIPTION
+6ef187cc5d63c0d36307efa3f6323c79 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-8ba9a3927bb8ba892dc4ba147dd1da39 *R/pinfsc50.R
+3b1b6c282f9d762a8b6f48693c42bc7e *NEWS.md
+df6cc46bc7fae1a55b713f3d5065b35a *R/pinfsc50-package.R
+683c402922284d0d62ead74656c9292b *R/pinfsc50.R
 5c440080497b26b43409b7901a02e56d *README.md
 53abc1267da09310b786614c8ba36973 *inst/CITATION
 5dad69eb399401b47f548df0f4fa7e25 *inst/extdata/pinf_sc50.fasta
 13eddc0013a314c9653d632b5de38f8d *inst/extdata/pinf_sc50.gff
 3855e2cfe7f269e332bcc40f41ff0e54 *inst/extdata/pinf_sc50.vcf.gz
-30a39855f6311ebbf7a224b137cee5b2 *man/pinfsc50.Rd
+bd9f0f20d213a4cdde9f3dda8a95b658 *man/pinfsc50-package.Rd
+f1f3bb7dbee97fe08ba80b546e539d41 *man/pinfsc50_data.Rd
